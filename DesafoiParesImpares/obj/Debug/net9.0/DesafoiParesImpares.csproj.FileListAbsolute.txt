@@ -1,0 +1,14 @@
+C:\Users\54589074850\Desktop\BackEndMoura\DesafoiParesImpares\bin\Debug\net9.0\DesafoiParesImpares.exe
+C:\Users\54589074850\Desktop\BackEndMoura\DesafoiParesImpares\bin\Debug\net9.0\DesafoiParesImpares.deps.json
+C:\Users\54589074850\Desktop\BackEndMoura\DesafoiParesImpares\bin\Debug\net9.0\DesafoiParesImpares.runtimeconfig.json
+C:\Users\54589074850\Desktop\BackEndMoura\DesafoiParesImpares\bin\Debug\net9.0\DesafoiParesImpares.dll
+C:\Users\54589074850\Desktop\BackEndMoura\DesafoiParesImpares\bin\Debug\net9.0\DesafoiParesImpares.pdb
+C:\Users\54589074850\Desktop\BackEndMoura\DesafoiParesImpares\obj\Debug\net9.0\DesafoiParesImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54589074850\Desktop\BackEndMoura\DesafoiParesImpares\obj\Debug\net9.0\DesafoiParesImpares.AssemblyInfoInputs.cache
+C:\Users\54589074850\Desktop\BackEndMoura\DesafoiParesImpares\obj\Debug\net9.0\DesafoiParesImpares.AssemblyInfo.cs
+C:\Users\54589074850\Desktop\BackEndMoura\DesafoiParesImpares\obj\Debug\net9.0\DesafoiParesImpares.csproj.CoreCompileInputs.cache
+C:\Users\54589074850\Desktop\BackEndMoura\DesafoiParesImpares\obj\Debug\net9.0\DesafoiParesImpares.dll
+C:\Users\54589074850\Desktop\BackEndMoura\DesafoiParesImpares\obj\Debug\net9.0\refint\DesafoiParesImpares.dll
+C:\Users\54589074850\Desktop\BackEndMoura\DesafoiParesImpares\obj\Debug\net9.0\DesafoiParesImpares.pdb
+C:\Users\54589074850\Desktop\BackEndMoura\DesafoiParesImpares\obj\Debug\net9.0\DesafoiParesImpares.genruntimeconfig.cache
+C:\Users\54589074850\Desktop\BackEndMoura\DesafoiParesImpares\obj\Debug\net9.0\ref\DesafoiParesImpares.dll
