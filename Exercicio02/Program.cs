@@ -13,4 +13,11 @@ if (golsTime1 == golsTime2)
 {
     Console.WriteLine($"Jogo empatado!");
 }
-
+else if (golsTime1 > golsTime2)
+{
+    Console.WriteLine($"Vitoria do primeiro time!");
+}
+else if(golsTime2 > golsTime1)
+{
+    Console.WriteLine($"Vitoria do segundo time!");
+}
