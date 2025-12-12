@@ -1,0 +1,53 @@
+@model DevConnectMoura.Models.TbUsuario
+
+<link rel="stylesheet" href="~/css/cadastro.css">
+
+<script defer>
+  let usuarioNovoCadastro = "@ViewBag.UsuarioNovoCadastrado";
+  
+  if(usuarioNovoCadastro == "Nao cadastrado"){
+     alert("Nao foi possivel cadastrar esse usuario 😢! Fale com um dos nossos administradores.");
+  }
+</script>
+
+<h1>Tela principal login - Dev-Connect</h1>
+<main>
+    <div>
+
+        <form class="estilo-formulario" asp-action="Index" asp-controller="Usuario" enctype="multipart/form-data">
+            <img src="~/images/logo-devconnect-lg.svg" alt="Logo DevConnect">
+            <p>Cadastre-se para comunidade exclusiva de desenvolvedores(as).</p>
+
+            <div class="formulario-campos">
+                <label for="">Nome e sobrenome:</label>
+                <input type="password" asp-for="NomeCompleto" id="">
+            </div>
+
+            <div class="formulario-campos">
+                <label for="">Nome de usuario:</label>
+                <input type="password" asp-for="NomeUsuario" id="">
+            </div>
+
+            <div class="formulario-campos">
+                <label for="">E-mail:</label>
+                <input type="email" asp-for="Email" id="">
+            </div>
+
+            <div class="formulario-campos">
+                <label for="">Senha:</label>
+                <input type="password" Senha="" id="">
+            </div>
+            <div id= "upload">
+            <label for="campo-upload" id="texto-upload">Faça upload da sua imagem aqui...</label>
+            <input type="file" name="Imagem" id="campo-upload" accept="image/*">
+            <div/>
+            <button href="#" class="formulario-botao-marrow">Cadastre-se</button>
+            <p>Ao se cadastrar, você concorda com nossos Termos, Política de Dados e Política de Cookies</p>
+        </form>
+        <section id="secao-cadastro" class="estilo-formulario">
+            <p> Tem uma conta? <a href="#">Conecte-se</a></p>
+        </section>
+
+    </div>
+    </div>
+</main>
