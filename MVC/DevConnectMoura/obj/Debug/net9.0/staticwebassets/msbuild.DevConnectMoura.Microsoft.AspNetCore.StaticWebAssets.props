@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>rvalzvwhrw</Fingerprint>
-      <Integrity>V0mZIo5BEu8+g+Cm8cIXc7f2r2CKmwm/Pq3dX+sLreM=</Integrity>
+      <Fingerprint>67wk1cart7</Fingerprint>
+      <Integrity>/m4X9oIxRxb1RbsOVGxaUwB0O/qy4gIB/BKB1C+1nEI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\cadastro.css'))</OriginalItemSpec>
@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>du8pq0itga</Fingerprint>
-      <Integrity>+0xfbBd/NNbp7D5YzsymwXjOQfJqd/M8J0FuPYjcIrE=</Integrity>
+      <Fingerprint>i8o51xhq5u</Fingerprint>
+      <Integrity>8l6MIo3aIVcopniQOidICgejJewlNY7TDK5IhQUniXk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\global.css'))</OriginalItemSpec>
@@ -179,6 +179,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\arte.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\DevConnect - DER e Modelo Lógico-Página-7.drawio (2).png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DevConnectMoura</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DevConnectMoura</BasePath>
+      <RelativePath>images/DevConnect - DER e Modelo Lógico-Página-7.drawio (2).png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>uz98n6voll</Fingerprint>
+      <Integrity>miNluBl+FjUvptfpggNnRIhmL2UmumehrmXpyefv9rA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\DevConnect - DER e Modelo Lógico-Página-7.drawio (2).png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\google-play.svg'))">
       <SourceType>Package</SourceType>

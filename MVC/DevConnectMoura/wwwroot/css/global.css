@@ -58,7 +58,7 @@ h1 {
     border: none;
     height: 35px;
 
-    color: var(--cor-branco);
+    color: var(--cor-preto);
     font-size: var(--tamanho-fonte-sm);
 }
 
@@ -67,7 +67,7 @@ h1 {
     height: 35px;
     background-color: var(--cor-cinza-medio);
 
-    color: var(--cor-cinza-medio);
+    color: var(--cor-preto);
     font-size: var(--tamanho-fonte-sm);
     border-radius: var(--borda-arredondada);
 }
